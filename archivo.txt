@@ -3,5 +3,9 @@ import numpy as np
 
 print('Hola GitHub')
 
+a=1
+b=45
 n=a*b
+
+
 
